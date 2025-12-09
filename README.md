@@ -10,7 +10,7 @@
 
 ### "Each dream you leave behind is a part of your future that will no longer exist". Steve Jobs
 
-### _Hello there_! I'm _Romulo Scampini_, a SRE / Software Developer
+### _Hello there_! I'm _Romulo Scampini_, sometimes Head of Engineering, always Developer
 
  - :dash: 15 years expertise 
  - :busts_in_silhouette: Strong Background - Java, Architect, SRE, Devops, Linux
